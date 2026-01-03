@@ -31,6 +31,3 @@ This project is ideal for **college submissions**, **beginners**, and **GUI prac
 - **IDE (optional):** VS Code / PyCharm
 
 ---
-
-## 📂 Project Structure
-
